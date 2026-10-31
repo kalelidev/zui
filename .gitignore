@@ -1,0 +1,20 @@
+.zig-cache/
+zig-out/
+/release/
+/debug/
+/build/
+/build-*/
+verification/
+ai/*
+
+docs/*
+!docs/PROJECT.md
+!docs/ARCHITECTURE.md
+!docs/BENCHMARKS.md
+
+# Editor / OS
+*.swp
+*.swo
+*~
+.DS_Store
+*.ppm        
